@@ -1,0 +1,15 @@
+[theme]
+# Cor primária para elementos interativos (botões, etc.)
+primaryColor="#14b8a6" # Azul-petróleo do logo
+
+# Cor de fundo principal do app
+backgroundColor="#0f172a" # Azul bem escuro
+
+# Cor de fundo para elementos como a barra lateral e caixas de mensagem
+secondaryBackgroundColor="#1e293b" # Azul-ardósia
+
+# Cor do texto principal
+textColor="#d1d5db"
+
+# Fonte a ser utilizada
+font="sans serif"
